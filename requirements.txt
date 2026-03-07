@@ -5,3 +5,5 @@ sentence-transformers
 matplotlib
 seaborn
 tqdm
+jupyter
+ipykernel
